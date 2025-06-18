@@ -1,0 +1,32 @@
+
+nav>a{margin: 20px;width:20%;text-align: center;padding:0;padding-top:7px;width:40%;height: 50%;text-align: center;border:1px outset hidden;position: relative;border-radius: 0px; text-decoration: none;color: black;}
+body{font-family: 'Times New Roman', Times, serif;} 
+#back {
+    height: 88vh; /* Adjusted height for better viewport fit */
+    background-image: url('first photo.webp'); /* Replace with correct image path */
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    padding: 0px;
+    margin-top: 50px;
+    left:0;right:0;
+    width:80%;
+}
+.shop{border:2px solid deeppink;color:deeppink}
+section>div>h1{color:white;font-family:sans-serif;font-weight: 1000;text-align:justify;padding-left: 40px;padding-top:2px;font-size: 30px;}
+.IMG{width:310px;height: 300px;}
+.price>h2{border-radius:100px;background-color:deeppink;border: 2px solid deeppink;width:80px;margin-left: 60px;text-align: center;color:black;border: 2px inset black;}
+button{color:white;background-color: black;width:200px;height:30px;border-radius: 100px;font-weight: 600;font-size:medium;padding:0px;font-family: serif;}
+pre{font-family:  'Courier New', Courier, monospace;font-size: small;padding:  20px;margin:auto ;background-color: pink;width: 100%;}
+.offers{padding-left: 400px;font-size:xx-large;font-weight: 900;color: black;background-color: lavenderblush;}
+button:hover{background-color:pink;color:black;}
+h6{padding-left: 400px;font-size: x-large;font-weight: 900;color: black;background-color: lavenderblush;}
+#click:hover {color: lavenderblush;}
+address{text-align: left;}
+.a:hover{text-decoration-line: underline;text-decoration-color: deeppink;}
